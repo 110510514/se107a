@@ -1,4 +1,0 @@
-const _  = require ('_.head')
-
-console.log ('_.head=([1, 2, 3])=' , _.head=([1, 2, 3])) 
-console.log ('_.head=([])=' , _.head([]));
